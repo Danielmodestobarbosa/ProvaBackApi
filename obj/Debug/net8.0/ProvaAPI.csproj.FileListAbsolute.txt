@@ -1,0 +1,9 @@
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.csproj.AssemblyReference.cache
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.AssemblyInfoInputs.cache
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.AssemblyInfo.cs
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.csproj.CoreCompileInputs.cache
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CursoWebApi\ProvaAPI\ProvaApi\obj\Debug\net8.0\ProvaAPI.sourcelink.json

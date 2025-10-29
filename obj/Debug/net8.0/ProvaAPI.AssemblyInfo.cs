@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+303b3d66422db390764f848bcf2d847b99fe8cd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
